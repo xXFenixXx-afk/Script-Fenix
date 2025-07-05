@@ -1,7 +1,7 @@
 --[[
-	ui-engine-v2
-	version 1.3a
-	by Singularity (V3rm @ King Singularity) (Discord @ Singularity#5490)
+	ui-engine-v1
+	version 1
+	by Fenix (V1 @Fenix) (Discord @Chrismon014)
 --]]
 
 local ui_options = {
@@ -185,7 +185,7 @@ Title.BackgroundTransparency = 1
 Title.Position = UDim2.new(0, 30, 0, 3)
 Title.Size = UDim2.new(0, 200, 0, 20)
 Title.Font = Enum.Font.GothamBold
-Title.Text = "Gamer Time"
+Title.Text = "Juego"
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.TextSize = 14
 Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -273,7 +273,7 @@ Title_2.Position = UDim2.new(0.5, 0, 0.5, -10)
 Title_2.Size = UDim2.new(0, 0, 0, 20)
 Title_2.ZIndex = 2
 Title_2.Font = Enum.Font.GothamBold
-Title_2.Text = "Slider"
+Title_2.Text = "Fenix"
 Title_2.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
 Title_2.TextSize = 14
 
@@ -547,7 +547,7 @@ Keywords.BackgroundTransparency = 1
 Keywords.Size = UDim2.new(1, 0, 1, 0)
 Keywords.ZIndex = 5
 Keywords.Font = Enum.Font.Code
-Keywords.Text = ""
+Keywords.Text = "Fenix_014"
 Keywords.TextColor3 = Color3.new(0.972549, 0.427451, 0.486275)
 Keywords.TextSize = 15
 Keywords.TextXAlignment = Enum.TextXAlignment.Left
