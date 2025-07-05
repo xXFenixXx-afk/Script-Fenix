@@ -2613,5 +2613,5 @@ noteTab:AddLabel("Fenix Script")
 noteTab:AddLabel("")
 -- Instead of one large text block, let's add each paragraph separately
 -- This gives better control over formatting
-noteTab:AddLabel("criado por: Fenix")
+noteTab:AddLabel("creado por: Fenix")
 noteTab:AddLabel("Este es un script de prueba")
